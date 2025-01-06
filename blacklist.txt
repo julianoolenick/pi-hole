@@ -1,0 +1,17 @@
+*.globo.com
+*.uol.com.br
+*.estadao.com.br
+*.cnnbrasil.com.br
+*.terra.com.br
+*.r7.com
+*.metropoles.com
+*.bbc.com
+*.abril.com.br
+*.brasildefato.com.br
+*.cbn.com.br
+*.uol.com.br
+*.jovempan.com.br
+*.oantagonista.com
+*.diariodocentrodomundo.com.br
+*.exame.com
+*.gazetadopovo.com.br
